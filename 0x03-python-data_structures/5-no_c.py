@@ -4,4 +4,4 @@ def no_c(my_string):
     for elm in my_string:
         if elm != "c" and elm != "C":
             newstr = newstr + elm
-    print("{}".format(newstr))
+    return newstr
