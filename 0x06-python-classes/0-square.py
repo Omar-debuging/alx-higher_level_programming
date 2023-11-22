@@ -2,5 +2,6 @@
 """A module for Square"""
 
 class Square:
-    """Class that defines properties of square."""
+    """Class that defines properties of square
+    """
     pass
